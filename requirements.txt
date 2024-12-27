@@ -1,0 +1,3 @@
+# requirements.txt
+phidata
+python-dotenv
